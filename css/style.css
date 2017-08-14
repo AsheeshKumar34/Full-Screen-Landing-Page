@@ -1,0 +1,22 @@
+* {
+        margin: 0px;
+        padding: 0px;
+}
+
+header {
+        background-image: url("https://unsplash.imgix.net/photo-1414490929659-9a12b7e31907");
+        height: 100vh;
+        background-size: cover;
+        background-position: center;
+        margin-bottom: 50px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+}
+
+p{
+        width: 600px;
+        margin: 0 auto 20px;
+}
